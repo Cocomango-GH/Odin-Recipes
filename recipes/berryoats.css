@@ -1,0 +1,44 @@
+h1 {
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+    color: #911e31;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #f58b9d;
+    color: whitesmoke;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-radius: 8px;
+}
+
+h4 { 
+    text-align: center;
+    font-weight: 700;
+    color: #911e31;
+}
+
+p { 
+    text-align: center;
+    font-size: 20px;
+}
+h2 { 
+    color: #911e31;
+    text-align: center;
+}
+
+UL {
+    text-decoration:double;
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
